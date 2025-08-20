@@ -1,1 +1,2 @@
-# Lung_cancer_classification
+## to predict your lung cancer you need to add a image type named 'Histopathological Images'....
+## you can search a image in google using this name and upload it, it will predict wheather you have "'Lung benign tissue', 'Lung adenocarcinoma', 'Lung squamous cell carcinoma'".
